@@ -1,2 +1,2 @@
 # steps-firebase
-Documentation before starting development firebase
+Steps before starting development with firebase
